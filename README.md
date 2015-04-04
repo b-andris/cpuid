@@ -5,9 +5,6 @@ A simple tool for determining the "make and model" of a processor.
 ## Intensions
 This tool was mainly written out of a personal need and as a code example for [YourOS](https://github.com/Gurgel100/Kernel).
 
-## Known Issues
-- When compiled using LLVM and the -Os flag the program has a incorrect output.
-
 ## LICENSE
 
 cupid is available under the MIT license:
